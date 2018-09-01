@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Account Setting"
+        android:id="@+id/main_account_settings_button"
+        app:showAsAction="never"></item>
+
+    <item
+        android:title="View all Users"
+        android:id="@+id/all_users_button"
+        app:showAsAction="never"></item>
+    <item
+        android:title="Find User by Name"
+        android:id="@+id/search_users_button"
+        app:showAsAction="never"></item>
+    <item
+        android:title="Logout"
+        android:id="@+id/main_logout_button"
+        app:showAsAction="never"></item>
+
+</menu>

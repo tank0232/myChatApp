@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ryan.mychatapp.StatusActivity">
+
+    <include layout="@layout/app_bar_layout"
+        android:id="@+id/status_app_bar">
+
+    </include>
+
+    <EditText
+        android:id="@+id/status_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/status_app_bar"
+        android:layout_marginTop="106dp"
+        android:ems="10"
+        android:hint="Change Status here"
+        android:inputType="textMultiLine"
+        android:padding="30dp" />
+
+    <Button
+        android:id="@+id/save_status_change_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/status_input"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="SAVE CHANGES"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp"
+        tools:background="@color/colorPrimaryDark" />
+
+</RelativeLayout>
