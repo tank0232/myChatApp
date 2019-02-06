@@ -1,3 +1,6 @@
+# Last Update
+September 2018
+
 # myChatApp
 A simple mobile chatting application similar to Wechat/whatapps
 
@@ -5,8 +8,11 @@ This project is done by Ryan on 2018
 
 This a simple  chat app done using Android Studio and Google Firebase database
 
-## Android development documentation done by Ryan
+# Documentation
 see documentation [here](myChatApp_doc.docx)
+
+# Apk file 
+Download the latest apk here [here](compatible with Android Oreo 8.0)
 
 # Screenshot
 
