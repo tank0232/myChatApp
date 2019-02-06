@@ -5,7 +5,7 @@ This project is done by Ryan on 2018
 
 This a simple  chat app done using Android Studio and Google Firebase database
 
-# ## Screenshot
+# Screenshot
 
 ![](https://i.imgur.com/oh4t5pl.jpg)
 ![](https://i.imgur.com/EgzOYln.jpg)
