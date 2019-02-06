@@ -12,7 +12,7 @@ This a simple  chat app done using Android Studio and Google Firebase database
 see documentation [here](myChatApp_doc.docx)
 
 # Apk file 
-Download the latest apk here [here](compatible with Android Oreo 8.0)
+Download the latest apk here [here](myChatApp.apk) (compatible with Android Oreo 8.0)
 
 # Screenshot
 
