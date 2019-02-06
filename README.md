@@ -6,7 +6,7 @@ This project is done by Ryan on 2018
 This a simple  chat app done using Android Studio and Google Firebase database
 
 ## Android development documentation done by Ryan
-see documentation [here](myLib/README.md)
+see documentation [here](myChatApp_doc.docx)
 
 # Screenshot
 
